@@ -22,7 +22,7 @@
 
 ```js
 const gavin = {
-  education:'M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University',
+  education: 'M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University',
   interest :['Predictive Modeling', 'Artificial Intelligence', 'Machine Learning'],
   current:  'Expanding my knowledge in ML and AI',
   tech: {
