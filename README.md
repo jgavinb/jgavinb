@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/gavinbrumfield">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.justgav.com">
+  <a href="https://www.gav-n.dev">
     <img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="https://github.com/jgavinb">
